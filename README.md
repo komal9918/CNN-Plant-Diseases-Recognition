@@ -37,6 +37,4 @@ It is split into **train (80%)**, **validation (10%)**, and **test (10%)** using
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/plant-disease-classification.git
-cd plant-disease-classification
-pip install -r requirements.txt
+git clone (https://github.com/komal9918/CNN-Plant-Diseases-Recognition/blob/main/plant_diseases.py)
